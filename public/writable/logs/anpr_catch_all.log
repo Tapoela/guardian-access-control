@@ -1,0 +1,558 @@
+=====================================
+2026-04-14 15:51:32
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:51:31+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:52:02
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:52:01+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:52:32
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:52:31+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:53:01
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:53:01+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:53:31
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:53:31+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:54:02
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:54:01+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:54:32
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:54:31+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:55:01
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:55:01+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:55:32
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:55:31+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:56:02
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:56:01+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:56:31
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:56:31+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:57:02
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:57:01+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:57:32
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:57:31+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:58:01
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:58:01+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:58:31
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:58:31+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:59:02
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:59:01+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 15:59:32
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T15:59:31+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+
+=====================================
+2026-04-14 16:00:01
+Method: POST
+URI: /anpr_catch.php
+Remote: 192.168.1.3
+Content-Type: multipart/form-data; boundary=--boundary
+Content-Length: 515
+Headers:
+  Host: 192.168.1.2
+  Accept: */*
+  Connection: close
+  Content-Type: multipart/form-data; boundary=--boundary
+  Content-Length: 515
+Body (515 bytes):
+--boundary
+Content-Disposition: form-data; name="heartBeat.xml"; filename="heartBeat.xml"
+Content-Type: application/xml
+Content-Length: 355
+
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.1.3</ipAddress>
+<macAddress>08:cc:81:4a:4d:86</macAddress>
+<dateTime>2026-04-14T16:00:01+02:00</dateTime>
+<eventType>heartBeat</eventType>
+<eventState>active</eventState>
+<eventDescription>heartBeat</eventDescription>
+</EventNotificationAlert>
+--boundary--
+
+=====================================
+

@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: url('../images/bg-tech-blue.png') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+.page-overlay {
+    min-height: 100vh;
+    background: rgba(0, 10, 40, 0.75);
+    padding: 20px;
+}
